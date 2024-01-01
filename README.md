@@ -8,8 +8,8 @@ Tech enthusiast exploring the digital realm. Passionate about Python, AI, and cr
 
 * 🌍  I'm based in Ghna
 * ✉️  You can contact me at [emmanueltdortey@yahoo.com](mailto:emmanueltdortey@yahoo.com)
-* 🧠  I'm learning c
-* 🤝  I'm open to collaborating on python projects
+* 🧠  I'm learning c programming 
+* 🤝  I'm open to collaborating on python projects and Full Stack Projects
 
 <a href="https://www.github.com/pythonwithDT" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pythonwithDT?logo=github&style=for-the-badge&color=a855f7&labelColor=ffffff" /></a><a href="https://www.x.com/pythonwith_DT" target="_blank" rel="noreferrer"><img
