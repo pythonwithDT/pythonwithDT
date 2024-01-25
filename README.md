@@ -1,3 +1,3 @@
 # Hi am Dortey Tetteh 
 
-![ReadME Header image](image.png)
+![ReadME Header image](DORTEYTETTEH.png)
