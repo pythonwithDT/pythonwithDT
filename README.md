@@ -9,7 +9,7 @@ I'm Dortey Tetteh, a passionate software developer with a love for all things Py
 
 ### 🔭 I’m currently working on...
 
-Diving deep into the realms of AI, UI, and Pythonic wonders. Exploring the intersections of technology and creativity is where I find my groove. Currently, you'll find me immersed in [specific projects or technologies].
+Diving deep into the realms of AI, UI, and Pythonic wonders. Exploring the intersections of technology and creativity is where I find my groove. Currently, you'll find me immersed in Javascript.
 
 ### 🌱 I’m currently learning...
 
